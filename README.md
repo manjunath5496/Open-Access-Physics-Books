@@ -284,10 +284,13 @@ Conductors</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(113).pdf" style="text-decoration:none;">Quantum
 Probability and Randomness</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(114).pdf" style="text-decoration:none;">Novel Membrane
+Technologies for Traditional Industrial Processes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(115).pdf" style="text-decoration:none;">Magnetic Nanostructures: 
+A promising approach towards RE-free permanent magnets</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(116).pdf" style="text-decoration:none;">Advanced
+Mathematical Methods: Theory and Applications</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
    
