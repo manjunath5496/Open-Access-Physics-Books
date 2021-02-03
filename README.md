@@ -292,99 +292,132 @@ A promising approach towards RE-free permanent magnets</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(116).pdf" style="text-decoration:none;">Advanced
 Mathematical Methods: Theory and Applications</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(117).pdf" style="text-decoration:none;">Investigation of Magnetic Adatoms with Scanning Tunneling Techniques</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(118).pdf" style="text-decoration:none;">Skip N-grams and Ranking Functions for Predicting Script Events</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(118).pdf" style="text-decoration:none;">Symmetry in
+Special and General Relativity</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(119).pdf" style="text-decoration:none;">Event detection based on open information extraction and ontology</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(119).pdf" style="text-decoration:none;">The Cellular
+Automaton Interpretation of Quantum Mechanics</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(120).pdf" style="text-decoration:none;">Event Coreference Resolution using Mincut based Graph Clustering</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(120).pdf" style="text-decoration:none;">Cutting-Edge
+Technologies for Renewable Energy Production and Storage</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(121).pdf" style="text-decoration:none;">On Semantics and Deep Learning for Event Detection in Crisis Situations</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(121).pdf" style="text-decoration:none;">Spintronics with individual metal-organic molecules</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(122).pdf" style="text-decoration:none;">Chinese Event Extraction Based on Attention and Semantic Features: A Bidirectional Circular Neural Network</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(122).pdf" style="text-decoration:none;">Symmetry in
+Quantum Optics Models</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(123).pdf" style="text-decoration:none;">A Unified Event Coreference Resolution by Integrating Multiple Resolvers</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(123).pdf" style="text-decoration:none;">Invariant Differential Operators</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(124).pdf" style="text-decoration:none;">Using Prediction from Sentential Scope to Build a Pseudo Co-Testing Learner for Event Extraction</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(124).pdf" style="text-decoration:none;">New Trends
+in Fuzzy Set Theory and Related Items</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(125).pdf" style="text-decoration:none;">Exploiting Document Level Information to Improve Event Detection via Recurrent Neural Networks</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(125).pdf" style="text-decoration:none;">Selected Papers from
+43rd International Conference of Theoretical Physics Matter to the Deepest, Recent Developments In Physics Of Fundamental Interactions (MTTD2019)</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(126).pdf" style="text-decoration:none;">
-Semi-Automatic Financial Events Discovery Based on Lexico-Semantic Patterns</a></li> 
+A Time Travel Dialogue</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(127).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(127).pdf" style="text-decoration:none;">Proteins as possible targets for antitumor metal complexes</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(128).pdf" style="text-decoration:none;">Temporal Ontology and Temporal Reference</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(128).pdf" style="text-decoration:none;">Decomposability
+of Tensors</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(129).pdf" style="text-decoration:none;">Four thousand ships passed through the lock: Object-induced measure functions on events</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(129).pdf" style="text-decoration:none;">Variance Component Estimation for Combination of Terrestrial Reference Frames</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(130).pdf" style="text-decoration:none;">Event Coreference Resolution with Multi-Pass Sieves </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(130).pdf" style="text-decoration:none;">The Evolution of Quantum Field Theory: From QED to Grand Unification </a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(131).pdf" style="text-decoration:none;">Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(131).pdf" style="text-decoration:none;">Performance of new GNSS satellite clocks</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(132).pdf" style="text-decoration:none;">Event Detection via Gated Multilingual Attention Mechanism</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(132).pdf" style="text-decoration:none;">60 Years of CERN
+Experiments and Discoveries</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(133).pdf" style="text-decoration:none;">A Survey of Textual Event Extraction from Social Networks</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(133).pdf" style="text-decoration:none;">Flow And Transformations
+In Porous Media</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(134).pdf" style="text-decoration:none;">Events, Processes, and States</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(134).pdf" style="text-decoration:none;">Towards a rigorous fusion of
+GNSS and InSAR observations for the purpose of water vapor retrieval</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(135).pdf" style="text-decoration:none;">Chinese Event Coreference Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(135).pdf" style="text-decoration:none;">Acoustic and
+Elastic Waves: Recent Trends in Science and Engineering</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(136).pdf" style="text-decoration:none;">Joint Extraction of Events and Entities within a Document Context</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(137).pdf" style="text-decoration:none;">Joint Event Extraction via Recurrent Neural Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(138).pdf" style="text-decoration:none;">Cross-media Event Extraction and Recommendation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(139).pdf" style="text-decoration:none;">Semi-Supervised Event Extraction with Paraphrase Clusters</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(140).pdf" style="text-decoration:none;">Adversarial Training forWeakly Supervised Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(136).pdf" style="text-decoration:none;">Advanced Flame Retardant Materials</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(137).pdf" style="text-decoration:none;">Advances in Electrochemical Energy Materials</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(138).pdf" style="text-decoration:none;">Application
+and Behavior of Nanomaterials in Water Treatment</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(139).pdf" style="text-decoration:none;">Quantum simulation experiments
+with superconducting circuits</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(140).pdf" style="text-decoration:none;">Contrails and Climate Engineering: Process Studies on Natural and Artificial High-Level Clouds and Their Impact on the Radiative Fluxes</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(141).pdf" style="text-decoration:none;"> Biomedical Event Extraction Based on Knowledge-driven Tree-LSTM</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(142).pdf" style="text-decoration:none;">Multilingual Entity, Relation, Event and Human Value Extraction</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(143).pdf" style="text-decoration:none;">Learning to Select Important Context Words for Event Detection</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(144).pdf" style="text-decoration:none;">Nonparametric Bayesian Models for Unsupervised Event Coreference Resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(145).pdf" style="text-decoration:none;">5W1H Information Extraction with CNN-Bidirectional LSTM</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(146).pdf" style="text-decoration:none;">An Improved Extraction Pattern Representation Model for Automatic IE Pattern Acquisition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(141).pdf" style="text-decoration:none;"> The Physics of the B Factories</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(142).pdf" style="text-decoration:none;">Cosmic Plasmas
+and Electromagnetic Phenomena</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(143).pdf" style="text-decoration:none;">Development of
+Unconventional Reservoirs</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(144).pdf" style="text-decoration:none;">High Precision X-Ray
+Measurements</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(145).pdf" style="text-decoration:none;">Information Decomposition of Target Effects from Multi-Source Interactions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(146).pdf" style="text-decoration:none;">Intelligent Control
+in Energy Systems</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(147).pdf" style="text-decoration:none;">Refining Event Extraction through Cross-document Inference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(147).pdf" style="text-decoration:none;">Metasurfaces: Physics and Applications</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(148).pdf" style="text-decoration:none;">Using Document Level Cross-Event Inference to Improve Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(148).pdf" style="text-decoration:none;">Microdevices and
+Microsystems for Cell Manipulation</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(149).pdf" style="text-decoration:none;">Event Discovery in Social Media Feeds</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(149).pdf" style="text-decoration:none;">Nanocolloids for
+Nanomedicine and Drug Delivery</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(150).pdf" style="text-decoration:none;">Using Cross-Entity Inference to Improve Event Extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(150).pdf" style="text-decoration:none;">Nanomaterials in
+Liquid Crystals</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(151).pdf" style="text-decoration:none;">Event Extraction as Dependency Parsing </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(151).pdf" style="text-decoration:none;">Natural Fiber-
+Reinforced Hybrid Composites</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(152).pdf" style="text-decoration:none;">Can Document Selection Help Semi-supervised Learning? A Case Study On Event Extraction </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(153).pdf" style="text-decoration:none;">Automatic Event Extraction with Structured Preference Modeling</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(154).pdf" style="text-decoration:none;">Joint Event Extraction via Structured Prediction with Global Features</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(152).pdf" style="text-decoration:none;">Non-Linear
+Lattice </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(153).pdf" style="text-decoration:none;">Novel Insights into Orbital
+Angular Momentum Beams</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(154).pdf" style="text-decoration:none;">Optimum Choice of Energy System
+Configuration and Storages for a Proper Match between Energy Conversion and Demands</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(155).pdf" style="text-decoration:none;">Argument Inference from Relevant Event Mentions in Chinese Argument Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(155).pdf" style="text-decoration:none;">Photonic Integration And
+Photonics-electronics Convergence On Silicon Platform</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(156).pdf" style="text-decoration:none;">A Structured Distributional Semantic Model for Event Co-reference</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(157).pdf" style="text-decoration:none;">Modelling Events through Memory-based, Open-IE Patterns for Abstractive Summarization</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(158).pdf" style="text-decoration:none;">Toward Future Scenario Generation: Extracting Event Causality Exploiting Semantic Relation, Context, and Association Features</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(156).pdf" style="text-decoration:none;">Elastic and Inelastic Scanning Tunneling Spectroscopy on Iron-Based Superconductors</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(157).pdf" style="text-decoration:none;">Electroluminescence from
+Plasmonic Excitations in a Scanning Tunnelling Microscope</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(158).pdf" style="text-decoration:none;">Investigation on the dissemination of unit watt in airborne sound and applications</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(159).pdf" style="text-decoration:none;">Cross-narrative temporal ordering of medical events </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(159).pdf" style="text-decoration:none;">Application
+and Behavior of Nanomaterials in Water Treatment </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(160).pdf" style="text-decoration:none;">An Annotation Framework for Dense Event Ordering</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(160).pdf" style="text-decoration:none;">PV System Design
+and Performance</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(161).pdf" style="text-decoration:none;">A Simple Bayesian Modelling Approach to Event Extraction from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(161).pdf" style="text-decoration:none;">SPIG2018</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(162).pdf" style="text-decoration:none;">Bilingual Event Extraction: a Case Study on Trigger Type Determination</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(163).pdf" style="text-decoration:none;">Real-Time Detection, Tracking, and Monitoring of Automatically Discovered Events in Social Media</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(162).pdf" style="text-decoration:none;">Sustainable
+Energy Systems: From Primary to End-Use</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(163).pdf" style="text-decoration:none;">Synthesis and
+Applications of Nanomaterials for Photocatalysis and Electrocatalysis</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(164).pdf" style="text-decoration:none;">Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(164).pdf" style="text-decoration:none;">Thermo-Mechanical
+Behaviour of Structural Lightweight Alloys</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(165).pdf" style="text-decoration:none;">Generative Event Schema Induction with Entity Disambiguation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(165).pdf" style="text-decoration:none;">Two-Dimensional
+Electronics and Optoelectronics</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(166).pdf" style="text-decoration:none;">Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(166).pdf" style="text-decoration:none;">Wave Energy Potential, Behavior and Extraction</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(167).pdf" style="text-decoration:none;">Event Detection and Domain Adaptation with Convolutional Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(167).pdf" style="text-decoration:none;">Recent Advances
+in GPR Imaging</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(168).pdf" style="text-decoration:none;">Seed-Based Event Trigger Labeling:
-How far can event descriptions get us?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(168).pdf" style="text-decoration:none;">Solar Radiation,
+Modelling and Remote Sensing</a></li>
 
 </ul>
