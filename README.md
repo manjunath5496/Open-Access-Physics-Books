@@ -99,7 +99,7 @@ from the 1st International Online Conference on Nanomaterials</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(37).pdf" style="text-decoration:none;">Experiments on flux qubits
 with π-shifters</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(38).pdf" style="text-decoration:none;">At The Crossroads: Lessons And Challenges In Computational Social Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(38).PDF" style="text-decoration:none;">At The Crossroads: Lessons And Challenges In Computational Social Science</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(39).pdf" style="text-decoration:none;">Differential
 Geometrical Theory of Statistics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(40).pdf" style="text-decoration:none;">Quantum
@@ -123,7 +123,7 @@ for The Valorisation of Biomass Derived Molecules</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(50).pdf" style="text-decoration:none;">A Smoothed Particle Hydrodynamics
 Method for the Simulation of Centralized Sloshing Experiments</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(51).pdf" style="text-decoration:none;">Regulation Of Red Cell
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(51).PDF" style="text-decoration:none;">Regulation Of Red Cell
 Life-span, Erythropoiesis, Senescence And Clearance</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(52).pdf" style="text-decoration:none;">Proliferation-Proof Uranium / Plutonium Fuel Cycles Safeguards and Non-Proliferation</a></li>
 
