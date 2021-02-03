@@ -33,7 +33,7 @@ Heterocatalysis by Nanomaterials</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(11).pdf" style="text-decoration:none;">Chemical, Physical and Mineralogical Properties of Atmospheric Particulate Matter in the Megacity Beijing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(12).pdf" style="text-decoration:none;">High-resolution analysis of the
 initiation of deep convection forced by boundary-layer processes</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(13).pdf" style="text-decoration:none;">Proceedings Of The International
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(13).PDF" style="text-decoration:none;">Proceedings Of The International
 School On Magnetic Resonance And Brain Function – Xii Workshop</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(14).pdf" style="text-decoration:none;">Towards magnetic resonance in
@@ -74,7 +74,7 @@ Light Scattering by Complex Atmospheric Particles</a></li>
 Macro- and microphysical insights with a numerical model</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(28).pdf" style="text-decoration:none;">Applications Of Quantum
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(28).PDF" style="text-decoration:none;">Applications Of Quantum
 Mechanical Techniques To Areas Outside Of Quantum Mechanics</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(29).pdf" style="text-decoration:none;">Characterization of High Temperature Superconductor Cables for Magnet Toroidal Field Coils of the DEMO Fusion Power Plant </a></li>                              
