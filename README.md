@@ -427,4 +427,47 @@ in GPR Imaging</a></li>
 Modelling and Remote Sensing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/phy(169).pdf" style="text-decoration:none;">The Adventure of Physics
 Volume III: Light, Charges and Brains</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(1).pdf" style="text-decoration:none;">The Age of Einstein</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(2).pdf" style="text-decoration:none;">Physics Formulas</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(3).pdf" style="text-decoration:none;">Calculus-Based Physics II</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(4).pdf" style="text-decoration:none;">Calculus-Based Physics II (Formulas)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(5).pdf" style="text-decoration:none;">Conceptual Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(6).pdf" style="text-decoration:none;">Light and Matter</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(7).pdf" style="text-decoration:none;">Mechanics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(8).pdf" style="text-decoration:none;"> Introduction to String Field Theory </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(9).pdf" style="text-decoration:none;">Fields and Circuits</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(10).pdf" style="text-decoration:none;">SUPERSPACE or One thousand and one lessons in supersymmetry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(11).pdf" style="text-decoration:none;">Introduction
+to Groups, Invariants and Particles</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(12).pdf" style="text-decoration:none;">Essential Physics, Part 1: Relativity, Particle Dynamics, Gravitation and Wave Motion</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(13).pdf" style="text-decoration:none;">Problems in Introductory Physics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(14).pdf" style="text-decoration:none;">Fundamentals of Calculus</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(15).pdf" style="text-decoration:none;">General Relativity</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(16).pdf" style="text-decoration:none;">The People's Physics Book</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(17).pdf" style="text-decoration:none;">The Adventure of Physics, 
+Volume II: Relativity and Cosmology</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(18).pdf" style="text-decoration:none;">Scale Up Event Extraction Learning via Automatic Training Data Generation</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(19).pdf" style="text-decoration:none;">The Adventure of Physics, Volume IV: The Quantum of Change</a></li> 
+
+
+
+
+
+
+
+
 </ul>
