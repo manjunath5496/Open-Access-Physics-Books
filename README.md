@@ -455,15 +455,38 @@ to Groups, Invariants and Particles</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(16).pdf" style="text-decoration:none;">The People's Physics Book</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(17).pdf" style="text-decoration:none;">The Adventure of Physics, 
-Volume II: Relativity and Cosmology</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(17).pdf" style="text-decoration:none;">All Things Flow: 
+Fluid Mechanics for the Natural Sciences</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(18).pdf" style="text-decoration:none;">Scale Up Event Extraction Learning via Automatic Training Data Generation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(18).pdf" style="text-decoration:none;">Variational Principles in Classical Mechanics: Revised Second Edition</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(19).pdf" style="text-decoration:none;">The Adventure of Physics, Volume IV: The Quantum of Change</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(19).pdf" style="text-decoration:none;">Coastal Dynamics</a></li> 
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(20).pdf" style="text-decoration:none;">Body Physics: Motion to Metabolism</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(21).pdf" style="text-decoration:none;">Electromagnetics, Volume 1</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(22).pdf" style="text-decoration:none;">Relativity Lite: A Pictorial Translation of Einstein's Theories of Motion and Gravity</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(23).pdf" style="text-decoration:none;">Responsible Innovation: Ethics and risks of new technologies</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(24).pdf" style="text-decoration:none;">Building information - representation and management</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(25).pdf" style="text-decoration:none;">Applications of Maxwell's Equations</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(26).pdf" style="text-decoration:none;">Electromagnetics, Volume 2</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(27).pdf" style="text-decoration:none;">Delftse Foundations of Computation</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(28).pdf" style="text-decoration:none;">University Physics I: Classical Mechanics</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(29).pdf" style="text-decoration:none;">Calculus-Based Physics I </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(30).pdf" style="text-decoration:none;">Traffic Flow Theory: An introduction with exercises</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(31).pdf" style="text-decoration:none;">Introduction to Aerospace Structures and Materials</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Physics-Books/blob/master/ps(32).pdf" style="text-decoration:none;">Dredging Engineering
+Special Topics</a></li> 
 
 
 
